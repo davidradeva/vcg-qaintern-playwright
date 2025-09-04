@@ -33,4 +33,7 @@ npx playwright install --with-deps
 npx playwright test
 npx playwright test --ui (UI Mode)
 npx playwright show-report (Untuk Melihat Report)
+npx playwright test -g "Scenario A" --ui (Untuk Menjalankan scenario A saja)
+npx playwright test -g "Scenario B" --ui (Untuk Menjalankan scenario B saja)
+npx playwright test -g "Scenario C" --ui (Untuk Menjalankan scenario C saja)
 
