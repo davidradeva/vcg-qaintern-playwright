@@ -1,4 +1,4 @@
-# VCGamers QA Internship — Playwright E2E (Gercep)
+# VCGamers  — Playwright E2E (Gercep)
 
 ## Skenario Uji
 **Scenario A — Open Gercep & Check Title (per spesifikasi)**
